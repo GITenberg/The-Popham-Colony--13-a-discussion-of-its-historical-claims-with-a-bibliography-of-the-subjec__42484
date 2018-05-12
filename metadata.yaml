@@ -12,17 +12,19 @@ creator:
     gutenberg_agent_id: '26144'
     url: http://www.gutenberg.org/2009/agents/26144
   - agent_name: Ballard, Edward
-    birthdate: &id001 1804
+    birthdate: 1804
     deathdate: 1870
     gutenberg_agent_id: '41711'
     url: http://www.gutenberg.org/2009/agents/41711
   - agent_name: Kidder, Frederic
-    birthdate: *id001
+    birthdate: 1804
     deathdate: 1885
     gutenberg_agent_id: '31321'
     url: http://www.gutenberg.org/2009/agents/31321
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Kidder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42484#The-Popham-Colony--13-a-discussion-of-its-historical-claims-with-a-bibliography-of-the-subjec_
 gutenberg_issued: '2013-04-08'
 gutenberg_type: Text
 identifiers:
